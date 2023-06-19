@@ -1,2 +1,2 @@
 # ftptest
-FTP Server Project Distribution System Lab
+FTP Server Project for Distribution System Lab
