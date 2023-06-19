@@ -6,8 +6,8 @@ Copyright (c) 2023. All rights reserved by Woliul Hasan. Fork me on https://gith
 
 ## Note:
 
-* This project Used **Pycharm 2023.1.2** `venv` used for this only
-  Import packages from **IDE** or import using Pip
+* This project Used **Pycharm 2023.1.2** `venv` used for this project only
+* Import packages from **IDE** or import using Pip
 
 * Use **Python 3.9.6** and **pip 22.3.1**
 
