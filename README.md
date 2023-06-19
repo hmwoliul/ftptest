@@ -30,7 +30,7 @@ Copyright (c) 2023. All rights reserved by Woliul Hasan. Fork me on https://gith
   ````
     sudo python server.py
     ````
-* ### Connect different FTP server eg: Adobe ftp
+* **Connect different FTP server eg: Adobe ftp**
 
   ````
   ftp = ftplib.FTP("ftp.adobe.com")
