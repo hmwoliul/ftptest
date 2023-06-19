@@ -1,6 +1,6 @@
 # ftptest
 
-FTP Server Project Distributed System Lab
+FTP Server Project for Distributed System Lab
 
 Copyright (c) 2023. All rights reserved by Woliul Hasan. Fork me on https://github.com/hmwoliul
 
