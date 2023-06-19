@@ -13,7 +13,7 @@ Copyright (c) 2023. All rights reserved by Woliul Hasan. Fork me on https://gith
 
 # Requirements:
 
-* "ftplib" module built in with python so no need to install
+* ````ftplib```` module built in with python so no need to install
 
   ````pip install pyftpdlib````
 
